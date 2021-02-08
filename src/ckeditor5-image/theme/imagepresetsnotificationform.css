@@ -1,0 +1,27 @@
+/*
+ * Copyright (c) 2003-2020, CKSource - Frederico Knabben. All rights reserved.
+ * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
+ */
+
+@import "@ckeditor/ckeditor5-ui/theme/mixins/_rwd.css";
+
+.ck.ck-presets-notification-form {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+    width: 250px;
+    
+	@mixin ck-media-phone {
+		flex-wrap: wrap;
+	}
+}
+
+.ck.ck-reset_all .ck.ck-presets-notification-form {
+    & .ck-label {
+        white-space: normal;
+        display: block;
+        padding: 7px;
+        line-height: normal;
+        font-weight: normal;
+    }
+}

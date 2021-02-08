@@ -1,0 +1,85 @@
+{
+  "_from": "@ckeditor/ckeditor5-horizontal-line@^23.1.0",
+  "_id": "@ckeditor/ckeditor5-horizontal-line@23.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-glzyU7IHoV5i39uH1iVWL1zM1kf9748Y4++XgV7ZfoPyK5kh2TPwNY4doLi8tymrgIAw9geGAEp3ien3/YRghA==",
+  "_location": "/@ckeditor/ckeditor5-horizontal-line",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@ckeditor/ckeditor5-horizontal-line@^23.1.0",
+    "name": "@ckeditor/ckeditor5-horizontal-line",
+    "escapedName": "@ckeditor%2fckeditor5-horizontal-line",
+    "scope": "@ckeditor",
+    "rawSpec": "^23.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^23.1.0"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ckeditor/ckeditor5-horizontal-line/-/ckeditor5-horizontal-line-23.1.0.tgz",
+  "_shasum": "530a646c88b831caffd56228c35109d0a3941bae",
+  "_spec": "@ckeditor/ckeditor5-horizontal-line@^23.1.0",
+  "_where": "C:\\Users\\Kolyan\\Downloads\\ckeditor5 (1)",
+  "author": {
+    "name": "CKSource",
+    "url": "http://cksource.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/ckeditor/ckeditor5/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^23.1.0",
+    "@ckeditor/ckeditor5-ui": "^23.1.0",
+    "@ckeditor/ckeditor5-widget": "^23.1.0"
+  },
+  "deprecated": false,
+  "description": "Horizontal line feature for CKEditor 5.",
+  "devDependencies": {
+    "@ckeditor/ckeditor5-cloud-services": "^23.1.0",
+    "@ckeditor/ckeditor5-easy-image": "^23.1.0",
+    "@ckeditor/ckeditor5-editor-classic": "^23.1.0",
+    "@ckeditor/ckeditor5-engine": "^23.1.0",
+    "@ckeditor/ckeditor5-image": "^23.1.0",
+    "@ckeditor/ckeditor5-paragraph": "^23.1.0",
+    "@ckeditor/ckeditor5-utils": "^23.1.0"
+  },
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=5.7.1"
+  },
+  "files": [
+    "lang",
+    "src",
+    "theme"
+  ],
+  "homepage": "https://ckeditor.com",
+  "keywords": [
+    "ckeditor",
+    "ckeditor5",
+    "ckeditor 5",
+    "ckeditor5-feature",
+    "ckeditor5-plugin"
+  ],
+  "license": "GPL-2.0-or-later",
+  "name": "@ckeditor/ckeditor5-horizontal-line",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckeditor/ckeditor5.git",
+    "directory": "packages/ckeditor5-horizontal-line"
+  },
+  "version": "23.1.0",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=12.0.0",
+        "npm": ">=5.7.1"
+      },
+      "pkgid": "@ckeditor/ckeditor5-horizontal-line@23.1.0"
+    }
+  ]
+}

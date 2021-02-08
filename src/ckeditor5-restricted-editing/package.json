@@ -1,0 +1,96 @@
+{
+  "_from": "@ckeditor/ckeditor5-restricted-editing",
+  "_id": "@ckeditor/ckeditor5-restricted-editing@23.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-gJ9ju0c99a1c8z1FBSyxFSPzaTECxABfzgKk7A6agnjgVmfIgEjQs6wtk8NdfGuWx4yOVGwIyA2+/X1RqMvqgA==",
+  "_location": "/@ckeditor/ckeditor5-restricted-editing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ckeditor/ckeditor5-restricted-editing",
+    "name": "@ckeditor/ckeditor5-restricted-editing",
+    "escapedName": "@ckeditor%2fckeditor5-restricted-editing",
+    "scope": "@ckeditor",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ckeditor/ckeditor5-restricted-editing/-/ckeditor5-restricted-editing-23.1.0.tgz",
+  "_shasum": "32e06ab2f0687e446246d884795026ba1ed598d9",
+  "_spec": "@ckeditor/ckeditor5-restricted-editing",
+  "_where": "C:\\Users\\Kolyan\\Downloads\\ckeditor5 (1)",
+  "author": {
+    "name": "CKSource",
+    "url": "http://cksource.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/ckeditor/ckeditor5/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^23.1.0",
+    "@ckeditor/ckeditor5-ui": "^23.1.0"
+  },
+  "deprecated": false,
+  "description": "A restricted editing feature for CKEditor 5 editors.",
+  "devDependencies": {
+    "@ckeditor/ckeditor5-basic-styles": "^23.1.0",
+    "@ckeditor/ckeditor5-block-quote": "^23.1.0",
+    "@ckeditor/ckeditor5-clipboard": "^23.1.0",
+    "@ckeditor/ckeditor5-editor-classic": "^23.1.0",
+    "@ckeditor/ckeditor5-engine": "^23.1.0",
+    "@ckeditor/ckeditor5-link": "^23.1.0",
+    "@ckeditor/ckeditor5-paragraph": "^23.1.0",
+    "@ckeditor/ckeditor5-table": "^23.1.0",
+    "@ckeditor/ckeditor5-typing": "^23.1.0",
+    "@ckeditor/ckeditor5-undo": "^23.1.0",
+    "@ckeditor/ckeditor5-utils": "^23.1.0"
+  },
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=5.7.1"
+  },
+  "files": [
+    "lang",
+    "src",
+    "theme"
+  ],
+  "homepage": "https://ckeditor.com/ckeditor-5",
+  "keywords": [
+    "ckeditor",
+    "ckeditor5",
+    "ckeditor 5",
+    "ckeditor5-lib"
+  ],
+  "license": "GPL-2.0-or-later",
+  "name": "@ckeditor/ckeditor5-restricted-editing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckeditor/ckeditor5.git",
+    "directory": "packages/ckeditor5-restricted-editing"
+  },
+  "version": "23.1.0",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=12.0.0",
+        "npm": ">=5.7.1"
+      },
+      "pkgid": "@ckeditor/ckeditor5-restricted-editing@23.1.0"
+    },
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=12.0.0",
+        "npm": ">=5.7.1"
+      },
+      "pkgid": "@ckeditor/ckeditor5-restricted-editing@23.1.0"
+    }
+  ]
+}

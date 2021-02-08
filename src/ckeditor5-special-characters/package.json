@@ -1,0 +1,83 @@
+{
+  "_from": "@ckeditor/ckeditor5-special-characters@^23.1.0",
+  "_id": "@ckeditor/ckeditor5-special-characters@23.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-e5TF8hX01uUUrkllFTNuXaSIOnJZKMvTrv60sS5hwYXUZysykEy9CBAIFm0QgMNM5ndu1FDPHyZ1WrwE5rIh7g==",
+  "_location": "/@ckeditor/ckeditor5-special-characters",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@ckeditor/ckeditor5-special-characters@^23.1.0",
+    "name": "@ckeditor/ckeditor5-special-characters",
+    "escapedName": "@ckeditor%2fckeditor5-special-characters",
+    "scope": "@ckeditor",
+    "rawSpec": "^23.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^23.1.0"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ckeditor/ckeditor5-special-characters/-/ckeditor5-special-characters-23.1.0.tgz",
+  "_shasum": "43d18c7991f9d92e5d3b9fa2562a051809b1e05a",
+  "_spec": "@ckeditor/ckeditor5-special-characters@^23.1.0",
+  "_where": "C:\\Users\\Kolyan\\Downloads\\ckeditor5 (1)",
+  "author": {
+    "name": "CKSource",
+    "url": "http://cksource.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/ckeditor/ckeditor5/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^23.1.0",
+    "@ckeditor/ckeditor5-typing": "^23.1.0",
+    "@ckeditor/ckeditor5-ui": "^23.1.0",
+    "@ckeditor/ckeditor5-utils": "^23.1.0"
+  },
+  "deprecated": false,
+  "description": "Special characters feature for CKEditor 5.",
+  "devDependencies": {
+    "@ckeditor/ckeditor5-cloud-services": "^23.1.0",
+    "@ckeditor/ckeditor5-easy-image": "^23.1.0",
+    "@ckeditor/ckeditor5-editor-classic": "^23.1.0",
+    "@ckeditor/ckeditor5-image": "^23.1.0"
+  },
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=5.7.1"
+  },
+  "files": [
+    "lang",
+    "src",
+    "theme"
+  ],
+  "homepage": "https://ckeditor.com",
+  "keywords": [
+    "ckeditor",
+    "ckeditor5",
+    "ckeditor 5",
+    "ckeditor5-feature",
+    "ckeditor5-plugin"
+  ],
+  "license": "GPL-2.0-or-later",
+  "name": "@ckeditor/ckeditor5-special-characters",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckeditor/ckeditor5.git",
+    "directory": "packages/ckeditor5-special-characters"
+  },
+  "version": "23.1.0",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=12.0.0",
+        "npm": ">=5.7.1"
+      },
+      "pkgid": "@ckeditor/ckeditor5-special-characters@23.1.0"
+    }
+  ]
+}

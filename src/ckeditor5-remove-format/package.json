@@ -1,0 +1,89 @@
+{
+  "_from": "@ckeditor/ckeditor5-remove-format@^23.1.0",
+  "_id": "@ckeditor/ckeditor5-remove-format@23.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-x5JfjxblvjT+yamgTezqQuQKtkQy1wrpyxLRoO+SFB69PQEeJQrbqa443LPFWPpn7cO9D3qQWuaAEgIAxhUmqQ==",
+  "_location": "/@ckeditor/ckeditor5-remove-format",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@ckeditor/ckeditor5-remove-format@^23.1.0",
+    "name": "@ckeditor/ckeditor5-remove-format",
+    "escapedName": "@ckeditor%2fckeditor5-remove-format",
+    "scope": "@ckeditor",
+    "rawSpec": "^23.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^23.1.0"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ckeditor/ckeditor5-remove-format/-/ckeditor5-remove-format-23.1.0.tgz",
+  "_shasum": "00611cb7ae9ff380f56173a9ec7d104b2ba86740",
+  "_spec": "@ckeditor/ckeditor5-remove-format@^23.1.0",
+  "_where": "C:\\Users\\Kolyan\\Downloads\\ckeditor5 (1)",
+  "author": {
+    "name": "CKSource",
+    "url": "http://cksource.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/ckeditor/ckeditor5/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^23.1.0",
+    "@ckeditor/ckeditor5-ui": "^23.1.0",
+    "@ckeditor/ckeditor5-utils": "^23.1.0"
+  },
+  "deprecated": false,
+  "description": "Remove Format feature for CKEditor 5.",
+  "devDependencies": {
+    "@ckeditor/ckeditor5-basic-styles": "^23.1.0",
+    "@ckeditor/ckeditor5-clipboard": "^23.1.0",
+    "@ckeditor/ckeditor5-editor-classic": "^23.1.0",
+    "@ckeditor/ckeditor5-engine": "^23.1.0",
+    "@ckeditor/ckeditor5-enter": "^23.1.0",
+    "@ckeditor/ckeditor5-heading": "^23.1.0",
+    "@ckeditor/ckeditor5-image": "^23.1.0",
+    "@ckeditor/ckeditor5-link": "^23.1.0",
+    "@ckeditor/ckeditor5-paragraph": "^23.1.0",
+    "@ckeditor/ckeditor5-typing": "^23.1.0",
+    "@ckeditor/ckeditor5-undo": "^23.1.0"
+  },
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=5.7.1"
+  },
+  "files": [
+    "lang",
+    "src",
+    "theme"
+  ],
+  "homepage": "https://ckeditor.com/ckeditor-5",
+  "keywords": [
+    "ckeditor",
+    "ckeditor5",
+    "ckeditor 5",
+    "ckeditor5-feature",
+    "ckeditor5-plugin"
+  ],
+  "license": "GPL-2.0-or-later",
+  "name": "@ckeditor/ckeditor5-remove-format",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckeditor/ckeditor5.git",
+    "directory": "packages/ckeditor5-remove-format"
+  },
+  "version": "23.1.0",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=12.0.0",
+        "npm": ">=5.7.1"
+      },
+      "pkgid": "@ckeditor/ckeditor5-remove-format@23.1.0"
+    }
+  ]
+}
